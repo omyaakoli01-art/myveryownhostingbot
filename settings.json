@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "omiix2828.aternos.me:61506",
+    "ip": "omiix2828.aternos.me:",
     "port": 61506,
     "version": "1.21.1"
   },
